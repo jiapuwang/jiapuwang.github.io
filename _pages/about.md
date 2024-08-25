@@ -13,6 +13,8 @@ My research interests mainly focus on the areas of artificial intelligence and d
 
 <span style="color:red">_News_</span>
 ======
+  **<span style="color:purple">[Congratulation:]</span> I will serve as a reviewer for [ICLR 2025](https://iclr.cc/Conferences/2025). (Augest 25, 2024)
+  
   **<span style="color:purple">[Congratulation:]</span> I will serve as a reviewer for [NeurIPS 2024](https://neurips.cc/Conferences/2024). This opportunity not only reflects my expertise and academic contributions in the fields of data mining, large language models, and knowledge graph reasoning, but also allows me to collaborate with leading scholars and researchers to review and evaluate cutting-edge research. (May 2024)
   
   *<span style="color:red">[Paper:]</span> Our paper ``[Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning](https://arxiv.org/abs/2405.14170)'' is now published.(May 2024)
