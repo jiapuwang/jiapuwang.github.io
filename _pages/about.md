@@ -49,6 +49,8 @@ __Services__
 ======
 __Reviewer__
 
+  *[The 13rd International Conference on Learning Representations](https://iclr.cc/Conferences/2025) (ICLR 2025, CCF-A)
+
   *[The 38th Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024) (Neurips 2024, CCF-A)
 
   *[IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) (TCYB, IF:19.11)
