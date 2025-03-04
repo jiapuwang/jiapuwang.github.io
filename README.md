@@ -1,7 +1,6 @@
 
 # Academic Pages
-
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiapuwang)](https://github.com/anuraghazra/github-readme-stats)
 
 Academic Pages is a Github Pages template for academic websites.
 
