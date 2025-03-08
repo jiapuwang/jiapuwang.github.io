@@ -9,7 +9,7 @@ remote_theme: "samarsault/plainwhite-jekyll"
 theme: "plainwhite"
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiapu Wang"
+title                    : "Jiapu Wang" 
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
