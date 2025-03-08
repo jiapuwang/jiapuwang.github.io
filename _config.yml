@@ -10,8 +10,6 @@
 locale                   : "en-US"
 title                    : "Jiapu Wang" 
 title_separator          : "-"
-remote_theme             : "samarsault/plainwhite-jekyll"
-theme                    : "plainwhite"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : "https://github.com/jiapuwang/jiapuwang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
