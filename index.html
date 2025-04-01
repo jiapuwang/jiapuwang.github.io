@@ -115,45 +115,7 @@
             <td width="67%" valign="center" align="justify">
                 <p> Hello! I am Jiapu Wang (王家普), a 4-th PhD student of computer science and technology at Beijing University of Technology (BJUT) advised by <a href='https://idm.pku.edu.cn/info/1017/1041.htm'><strong>Prof. Wen Gao</strong></a>, and <a href='https://www.bjut.edu.cn/info/1059/1568.htm'><strong>Prof. Baocai Yin</strong></a>, and Griffith University advised by <a href='https://shiruipan.github.io'><strong>Prof. Shirui Pan</strong></a>. </p>
                 <p> My research interests mainly focus on the areas of Artificial Intelligence and Data Mining, especially for the Knowledge Graph, Large Language Model, and Graph Neural Network.</p>
-                <div class="publications">
-  <p>I have published papers at top venues (NeurIPS, AAAI, IEEE-TKDE, etc.)</p>
-  
-  <!-- Google Scholar 动态容器 -->
-  <div id="gs-badge-container">
-    <!-- 默认显示手动数据（防止空白） -->
-    <a href="https://scholar.google.com/citations?user=k8YPCRgAAAAJ" 
-       class="gs-badge" 
-       id="gs-manual-badge">
-      Citations: Loading...
-    </a>
-  </div>
-</div>
-
-<!-- 动态加载脚本 -->
-<script>
-  // 优先尝试官方嵌入方式
-  function loadScholarBadge() {
-    const container = document.getElementById('gs-badge-container');
-    const script = document.createElement('script');
-    script.src = 'https://scholar.google.com/citations.js?user=k8YPCRgAAAAJ&hl=en';
-    script.onerror = fallbackToManualData;  // 脚本加载失败时启用备用方案
-    container.appendChild(script);
-  }
-
-  // 备用方案：手动更新数据（需定期维护）
-  function fallbackToManualData() {
-    fetch('https://your-website.com/api/scholar-stats')  // 替换为您的数据API
-      .then(response => response.json())
-      .then(data => {
-        document.getElementById('gs-manual-badge').innerHTML = `
-          Citations: ${data.citations}+ | h-index: ${data.hindex}
-        `;
-      });
-  }
-
-  // 页面加载后执行
-  window.addEventListener('DOMContentLoaded', loadScholarBadge);
-</script>
+                <p> I have published papers at top AI conferences such as NeurIPS, AAAI, WWW, and AI journal, including IEEE-TKDE, IEEE-TKDE, IEEE-TNNLS.</p>
                 <!--<p> <script src="https://scholar.google.com/citations.js?user=YOUR_PROFILE_ID"></script> I obtained my B.Sc. in Computer Science at Peking University (<a href='https://english.pku.edu.cn/'><strong>PKU</strong></a>) in 2019. I was a student in <a href='https://yuanpei.pku.edu.cn/en/'><strong>Yuanpei College</strong></a>, where students can choose any majors and take any courses from the entire university. This chance made me able to enjoy the knowledge in not only computer science, but also psychology, sociology, economics, and philosophy.</p>--><br>
            
             </td>
